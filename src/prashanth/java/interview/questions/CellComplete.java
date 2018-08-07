@@ -42,6 +42,7 @@ public class CellComplete {
                 newStates.add(activeStatus);
             }
 
+            // if `days` is more than one day refresh both states and newStates
             if (days > 1) {
                 for (int k = 0; k < states.length; k++) {
                     states[k] = newStates.get(k);
