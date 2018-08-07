@@ -7,7 +7,6 @@ import java.util.List;
 public class CellComplete {
 
     public static void main(String[] args) {
-        // Change cell counts
         int[] cellStates = {1, 1, 0, 1, 1, 1, 1, 1, 0, 1};
         int days = 5;
         System.out.println(changeStates(cellStates, days));
