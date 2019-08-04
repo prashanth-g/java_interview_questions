@@ -55,8 +55,8 @@ public class ArrayManipulation {
     }
 
     long max = 0;
-    int temp = 0;
-    for (int i = 1; i < n; i++) {
+    long temp = 0;
+    for (int i = 1; i <= n; i++) {
       temp += resultArray[i];
       if (temp > max) {
         max = temp;
