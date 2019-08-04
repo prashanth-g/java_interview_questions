@@ -44,7 +44,7 @@ public class ArrayManipulation {
   // O(n)
   static long arrayManipulation(int n, int[][] queries) {
     long[] resultArray = new long[n + 1];
-    for (int i = 0; i < 3; i++) {
+    for (int i = 0; i < queries.length; i++) {
       int startIndex = queries[i][0];
       int endIndex = queries[i][1];
       int numberToBeAdded = queries[i][2];
