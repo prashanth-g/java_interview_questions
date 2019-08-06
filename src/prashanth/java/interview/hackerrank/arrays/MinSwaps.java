@@ -1,4 +1,4 @@
-package prashanth.java.interview.arrays;
+package prashanth.java.interview.hackerrank.arrays;
 
 public class MinSwaps {
 

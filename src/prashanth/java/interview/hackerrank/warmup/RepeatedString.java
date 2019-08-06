@@ -1,4 +1,4 @@
-package prashanth.java.interview.warmup;
+package prashanth.java.interview.hackerrank.warmup;
 
 public class RepeatedString {
 

@@ -1,4 +1,4 @@
-package prashanth.java.interview.hashtables;
+package prashanth.java.interview.hackerrank.hashtables;
 
 import java.util.Enumeration;
 import java.util.Hashtable;

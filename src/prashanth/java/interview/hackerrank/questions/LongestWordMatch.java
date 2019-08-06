@@ -1,4 +1,4 @@
-package prashanth.java.interview.questions;
+package prashanth.java.interview.hackerrank.questions;
 
 import java.util.Arrays;
 
